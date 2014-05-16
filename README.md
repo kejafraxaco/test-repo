@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is a test rep
+This is a test repo
